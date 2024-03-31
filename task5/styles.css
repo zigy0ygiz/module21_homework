@@ -1,0 +1,7 @@
+  .input {
+    width: 300px;
+  }
+
+  .completed {
+    text-decoration: line-through;
+  }
